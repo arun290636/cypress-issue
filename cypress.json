@@ -1,0 +1,11 @@
+{
+    "baseUrl" : "https://www.smartbox.com/fr/",
+    "chromeWebSecurity": false,
+    "pageLoadTimeout": 90000,
+    "execTimeout": 90000,
+    "env":{
+        "site": "fr",
+        "POSID": "123",
+        "pimID": "abc"
+    }
+}
